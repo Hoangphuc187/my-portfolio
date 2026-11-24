@@ -67,7 +67,7 @@ These are recommendations from the academic analysis, not controls deployed insi
 
 **Team project.** The submitted report lists Tiêu Hoàng Phúc, Nguyễn Nam Trường, and Nguyễn Phú Đạt.
 
-**My role:** Update this section with the exact sections personally researched, written, presented, or implemented. If you were the team lead, state that separately and describe the tasks you coordinated and personally completed. Do not present proposed controls as deployed controls.
+**My role — Team Lead & Primary Contributor:** Led the project work and handled the case-study research and analysis deliverables, including the attack-chain breakdown, MITRE ATT&CK mapping, CIA Triad assessment, risk matrix, NIST CSF mapping, and Defense-in-Depth recommendations. The submitted report also credits the other team members; this was a team academic project. The security controls described are proposals, not controls deployed at Asahi.
 
 ## Limitations
 
