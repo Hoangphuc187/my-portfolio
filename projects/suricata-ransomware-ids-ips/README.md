@@ -69,7 +69,7 @@ This portfolio page contains configuration/rule examples, not a complete `surica
 
 **Team project.** The submitted report lists Tiêu Hoàng Phúc and Nguyễn Phú Đạt.
 
-**My role:** Update this section with the exact tasks personally completed (for example: VM topology, AF-PACKET configuration, custom rule development, PCAP testing, or log correlation). Do not claim tasks performed by another team member.
+**My role — Team Lead & Primary Implementer:** Led the project and was responsible for the lab implementation workflow, including the three-VM topology, Suricata AF-PACKET IPS Inline setup, custom HTTP/SMB/DNS rule development, controlled test execution, and review of Suricata and Windows event logs. The submitted report also credits the other team member; this was a team academic project.
 
 ## Safety notice
 
