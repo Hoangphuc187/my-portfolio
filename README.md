@@ -10,12 +10,12 @@ A collection of academic, software development, and cybersecurity projects.
 
 ## 🔐 3. Ransomware Detection & Prevention with Suricata (IDS/IPS)
 - Project documentation: [View project](projects/suricata-ransomware-ids-ips/)
-- Includes: 3-VM lab topology, AF-PACKET IPS Inline configuration example, HTTP/SMB/DNS detection-rule examples, and lab validation notes.
+- **Demo / project folder:** [Google Drive](https://drive.google.com/drive/u/1/folders/1ebBT8lkQBgiXf-wst0CD1hmta1t3FRg9)
 
-## 🧪 4. Asahi Brewery Cyberattack - Case Study & Risk Assessment
+## 🧪 4. Asahi Brewery Cyberattack — Case Study & Risk Assessment
 - Project documentation: [View project](projects/asahi-brewery-cyberattack-analysis/)
-- Includes: attack-chain analysis, MITRE ATT&CK mapping, CIA Triad, risk assessment, NIST CSF, and Defense-in-Depth recommendations.
+- **Presentation / demo material:** [Google Drive](https://drive.google.com/drive/u/1/folders/1dyLd0hAhUpmWoQpbUoqca6jt1W8kzZDV)
 
 ---
 
-> **Note:** The cybersecurity projects were completed as academic team projects. See each project README for scope, limitations, and personal-contribution details. Lab configurations and rule snippets are examples and must be validated in an isolated, authorized environment.
+> **Note:** These are academic team projects. Each project README describes its scope, limitations, and personal contribution. The demo links above are the original shared Drive folders.
