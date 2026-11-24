@@ -10,7 +10,9 @@ A collection of academic, software development, and cybersecurity projects.
 
 ### 1. Ransomware Detection & Prevention with Suricata (IDS/IPS)
 - **GitHub repository:** https://github.com/Hoangphuc187/suricata-ransomware-ids-ips
-- **Demo / project material:** [Google Drive](https://drive.google.com/drive/u/1/folders/1ebBT8lkQBgiXf-wst0CD1hmta1t3FRg9)
+- **Demo video:** [Google Drive MP4](https://drive.google.com/file/d/1-BlyFzWpnag3Q7lFPRkh6HN_DxRM-7c7/view?usp=drive_link)
+- **Project report:** [Word / Google Docs](https://docs.google.com/document/d/1g8FecWMRNVImO8z8poIi-4xcvOY7C_oS/edit?usp=drive_link&ouid=101036036107507764113&rtpof=true&sd=true)
+- **Presentation slides:** [PowerPoint / Google Slides](https://docs.google.com/presentation/d/1N2g-2fpuxjIXm4bU_qWm9IqLRdjnnYNB/edit?usp=drive_link&ouid=101036036107507764113&rtpof=true&sd=true)
 - Highlights: three-VM VMware lab, Suricata AF-PACKET IPS Inline, custom HTTP/SMB/DNS rules, PCAP and Windows Event Log correlation.
 
 ### 2. Asahi Brewery Cyberattack — Case Study & Risk Assessment
@@ -20,4 +22,4 @@ A collection of academic, software development, and cybersecurity projects.
 
 ---
 
-> The cybersecurity projects are academic team projects. Their repositories describe the scope, team contribution, limitations, demo material, and defensive-learning context. The two Drive links are the original shared project folders, not direct video links.
+> The cybersecurity projects are academic team projects. Their repositories describe the scope, team contribution, limitations, and defensive-learning context. File access depends on the original Drive sharing settings.
