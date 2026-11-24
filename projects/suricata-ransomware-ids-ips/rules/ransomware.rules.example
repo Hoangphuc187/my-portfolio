@@ -1,0 +1,30 @@
+# EXAMPLE RULES FROM THE ACADEMIC PROJECT REPORT
+# These are lab examples, not production-ready rules.
+# Validate syntax and behavior against your Suricata version and isolated lab.
+
+alert http any any -> 192.168.80.129 any (
+    msg:"Suspicious EXE/MSI Download - Possible Ransomware Dropper";
+    content:".msi"; http_uri;
+    flow:from_server;
+    sid:100001;
+)
+
+alert smb any any -> any any (
+    msg:"Possible Ransomware Activity - SMB Write Burst";
+    flow:established,to_server;
+    content:"Write AndX";
+    sid:200002;
+    threshold: type both, track by_src, count 10, seconds 5;
+)
+
+alert dns any any -> any any (
+    msg:"Suspicious DNS Query - Potential Beacon";
+    pcre:"/^[a-z0-9]{20,}\./";
+    sid:300003;
+)
+
+drop smb any any -> any any (
+    msg:"DROP - Ransomware SMB Behavior Detected";
+    content:"Write AndX";
+    sid:400004;
+)
