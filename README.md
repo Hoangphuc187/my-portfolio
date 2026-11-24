@@ -1,16 +1,21 @@
 # 📌 Project Portfolio - Tieu Hoang Phuc
 
+A collection of academic, software development, and cybersecurity projects.
+
 ## 🚀 1. Language Learning App
-- GitHub: https://github.com/HuuNhanHUST/LanguageLearningApp-Flutter-Dart
+- GitHub: https://github.com/Hoangphuc187/LanguageLearningApp-Flutter-Dart
 
 ## 🛒 2. Website Selling Phones
-- GitHub: https://github.com/Hoangphuc187/Website-Selling-Phones.git
+- GitHub: https://github.com/Hoangphuc187/Website-Selling-Phones
 
-## 🔐 3. Ransomware Detection (IDS/IPS)
-- Google Drive: https://drive.google.com/drive/folders/1ebBT8lkQBgiXf-wst0CD1hmta1t3FRg9
+## 🔐 3. Ransomware Detection & Prevention with Suricata (IDS/IPS)
+- Project documentation: [View project](projects/suricata-ransomware-ids-ips/)
+- Includes: 3-VM lab topology, AF-PACKET IPS Inline configuration example, HTTP/SMB/DNS detection-rule examples, and lab validation notes.
 
-## 🧪 4. Ransomware Simulation
-- Google Drive: https://drive.google.com/drive/folders/1qpWLX46UXZMznzHov7qJL0t6BZd-BE44
+## 🧪 4. Asahi Brewery Cyberattack - Case Study & Risk Assessment
+- Project documentation: [View project](projects/asahi-brewery-cyberattack-analysis/)
+- Includes: attack-chain analysis, MITRE ATT&CK mapping, CIA Triad, risk assessment, NIST CSF, and Defense-in-Depth recommendations.
 
-## 🧪 5. Demo ASAHI BREWERY CYBERATTACK 29/09/2025
-- Google Drive: https://drive.google.com/drive/u/1/folders/1dyLd0hAhUpmWoQpbUoqca6jt1W8kzZDV
+---
+
+> **Note:** The cybersecurity projects were completed as academic team projects. See each project README for scope, limitations, and personal-contribution details. Lab configurations and rule snippets are examples and must be validated in an isolated, authorized environment.
